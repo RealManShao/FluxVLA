@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use FluxVLA in your research, please cite it as below."
+authors:
+  - family-names: "Li"
+    given-names: "Yinhao"
+    affiliation: "LimX Dynamics"
+    orcid: "https://orcid.org/0009-0005-0382-5272"
+  - family-names: "Mao"
+    given-names: "Weixin"
+    affiliation: "LimX Dynamics"
+    orcid: "https://orcid.org/0000-0002-0444-1079"
+  - family-names: "Lan"
+    given-names: "Zihan"
+    affiliation: "LimX Dynamics"
+    orcid: "https://orcid.org/0009-0001-5757-9581"
+  - family-names: "Rong"
+    given-names: "Jikun"
+    affiliation: "LimX Dynamics"
+    orcid: "https://orcid.org/0000-0003-3210-734X"
+  - family-names: "Zhu"
+    given-names: "Minzhao"
+    affiliation: "LimX Dynamics"
+    orcid: "https://orcid.org/0000-0002-6342-4201"
+  - family-names: "Mao"
+    given-names: "Yiming"
+    affiliation: "LimX Dynamics"
+    orcid: "https://orcid.org/0009-0005-8501-5934"
+  - family-names: "Shen"
+    given-names: "Bowen"
+    affiliation: "LimX Dynamics"
+    orcid: "https://orcid.org/0000-0001-8634-1313"
+  - family-names: "Huang"
+    given-names: "Xu"
+    affiliation: "LimX Dynamics"
+    orcid: "https://orcid.org/0009-0005-1123-216X"
+
+
+title: "FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence"
+version: 1.0.0
+doi: 10.5281/zenodo.20049506
+date-released: 2026-04-08
+url: "https://github.com/FluxVLA/FluxVLA"
+keywords:
+  - "Embodied AI"
+  - "Vision-Language-Action Models (VLA)"
+  - "World-Action-Model (WAM)"
+  - "Robotics"
+license: Apache-2.0
